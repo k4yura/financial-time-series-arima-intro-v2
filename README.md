@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# financial-time-series-arima-intro-v2
-financial-time-series-arima-intro-v2
-=======
+
 # financial-time-series-arima-intro
 
 **Part 1 of a 3-part workshop:** data pulling → preprocessing → stationarity checks → ARIMA scaffold
@@ -64,3 +61,4 @@ financial-time-series-arima-intro/
 - This repo intentionally leaves major implementation points for students to implement as exercises.
 - Part 2 and Part 3 (model expansion, options logic, trading simulation) will build on these foundations.
 >>>>>>> d1674ba (workshop part 1 commit)
+
